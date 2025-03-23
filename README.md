@@ -1,4 +1,4 @@
-# website-migrate
+# How to Migrate WordPress Site
 Migrating a large WordPress website can be challenging, especially when dealing with slow downloads or timeouts. 
 In this video, I’ve explained how to efficiently migrate huge WordPress sites using SSH and WGET, a powerful combination that speeds up the process and ensures reliability.
 
