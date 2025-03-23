@@ -91,7 +91,7 @@ In this video, I’ve explained how to efficiently migrate huge WordPress sites 
   ```
 - copy the database details in a file or create a temp file and view in terminal
   ```bash
-  ## if we're inside the file directory, edit the wp-config.php file (Make sure to copy the database credentials)
+  ## Edit the wp-config.php file (Make sure to copy the database credentials)
   nano ../wp-config.php
   ```
    ctrl + x | y | enter
