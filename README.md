@@ -8,17 +8,20 @@ In this video, I’ve explained how to efficiently migrate huge WordPress sites 
 - clean up wordpress if needed
 - backup database
    ```bash
-   ## Backup Database
    mysqldump -u DB_USER -p DB_NAME > sqldump_backup.sql
    ```
 - backup files and extras (wp-content) folder
    ```bash
    cd /var/www/domain.com/htdocs/
+   ```
+   ```bash
    tar -czvf wp_content_bck.tar.gz wp-content/
    ```
 - move the backup files to a downloadable destination
    ```bash
    mv wp_content_bck.tar.gz /var/www/html/
+   ```
+   ```bash
    mv sqldump_backup.sql /var/www/html/
    ```
 
@@ -27,8 +30,12 @@ In this video, I’ve explained how to efficiently migrate huge WordPress sites 
   ```bash
   ## Confirm directory
   pwd
+  ```
+  ```bash
   ## Navigate to /root
   cd /root
+  ```
+  ```bash
   ## Download both backup files (Replace server_ip with your actual old-server IP address)
   wget server_ip/wp_content_bck.tar.gz && wget server_ip/sqldump_backup.sql
   ```
@@ -38,11 +45,15 @@ In this video, I’ve explained how to efficiently migrate huge WordPress sites 
 - remove wp-content folder
   ```bash
   cd /var/www/domain.com/htdocs/
+  ```
+  ```bash
   rm -r wp-content/
   ```
 - move wp-content backup to /var/www/domain/htdocs folder
   ```bash
   cd /root
+  ```
+  ```bash
   mv wp_content_bck.tar.gz /var/www/domain.com/htdocs/
   ```
 - extract wp-content backup folder with TAR
@@ -52,11 +63,15 @@ In this video, I’ve explained how to efficiently migrate huge WordPress sites 
 - copy the database details in a file or create a temp file and view in terminal
   ```bash
   cd /var/www/domain/
+  ```
+  ```bash
   nano wp-config.php
   ```
   ctrl + x | y | enter
   ```bash
   cd /root
+  ```
+  ```bash
   nano temp
   ```
   ctrl + v | ctrl + x | y | enter
@@ -74,14 +89,22 @@ In this video, I’ve explained how to efficiently migrate huge WordPress sites 
 - remove the temporary files
   ```bash
   cd /root
+  ```
+  ```bash
   rm -r temp
   ```
 - secure the backup in root folder for future
   ```bash
   cd /root
+  ```
+  ```bash
   mkdir backupfiles
+  ```
+  ```bash
   mv wp_content_bck.tar.gz backupfiles/
+  ```
+  ```bash
   mv sqldump_backup.sql backupfiles/
   ```
 
-####Happy migrations....
+###Happy migrations....
