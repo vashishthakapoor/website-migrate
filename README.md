@@ -12,7 +12,15 @@ In this video, I’ve explained how to efficiently migrate huge WordPress sites 
    mysqldump -u DB_USER -p DB_NAME > sqldump_backup.sql
    ```
 - backup files and extras (wp-content) folder
+   ```bash
+   cd /var/www/domain.com/htdoc/
+   tar -czvf wp_content_bck.tar.gz wp-content/
+   ```
 - move the backup files to a downloadable destination
+   ```bash
+   mv wp_content_bck.tar.gz /var/www/html/
+   mv sqldump_backup.sql /var/www/html/
+   ```
 
 ### Prepare the new server
 - download backup in root folder
