@@ -60,7 +60,7 @@ In this video, I’ve explained how to efficiently migrate huge WordPress sites 
 - install blank WordPress with SSL and setup DNS of the domain
   ```bash
   ## Install WordPress with SSL, PHP 8.1 with the same domain on the new server
-  wo site create nordvpn.blog --wp --php81 -le --force
+  wo site create domain.com --wp --php81 -le --force
   ```
 - remove wp-content folder
   ```bash
