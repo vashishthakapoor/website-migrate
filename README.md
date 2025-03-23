@@ -7,6 +7,10 @@ In this video, I’ve explained how to efficiently migrate huge WordPress sites 
 ### Prepare the old server
 - clean up wordpress if needed
 - backup database
+   ```bash
+   ## Backup Database
+   mysqldump -u DB_USER -p DB_NAME > sqldump_backup.sql
+   ```
 - backup files and extras (wp-content) folder
 - move the backup files to a downloadable destination
 
