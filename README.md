@@ -53,10 +53,14 @@ In this video, I’ve explained how to efficiently migrate huge WordPress sites 
   ```bash
   cd /var/www/domain/
   nano wp-config.php
+  ```
   ctrl + x | y | enter
+  ```bash
   cd /root
   nano temp
+  ```
   ctrl + v | ctrl + x | y | enter
+  ```bash
   cat temp
   ```
 - import the mysql database
