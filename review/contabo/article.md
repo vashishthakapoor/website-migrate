@@ -29,12 +29,31 @@ In this Contabo review, I’ll share my hands-on experience with Contabo, its fe
 
 [![Contabo pricing](media/contabo-pricing-plans.png)](https://vashishthakapoor.com/website-migrate-contabo)
 
-| **Plan**        | **vCPU** | **RAM** | **Storage** | **Monthly Price** |
-|-----------------|----------|---------|-------------|-------------------|
-| VPS S NVMe      | 4 cores  | 8 GB    | 50 GB NVMe  | €4.49             |
-| VPS M NVMe      | 6 cores  | 16 GB   | 100 GB NVMe | €6.49             |
-| VPS L NVMe      | 8 cores  | 30 GB   | 200 GB NVMe | €12.49            |
+## 💰 Contabo Cloud VPS Pricing (2024)
 
+| **Plan**           | **Price/mo** | **vCPU Cores** | **RAM** | **Storage**                            | **Snapshots** | **Traffic**               | **Setup Fee** |
+|--------------------|--------------|----------------|---------|----------------------------------------|----------------|---------------------------|---------------|
+| Cloud VPS 4C       | $5.30        | 4              | 4 GB    | 100 GB NVMe or 200 GB SSD              | 1              | 32 TB (Unlimited Incoming) | No Setup Fee  |
+| Cloud VPS 6C       | $7.57        | 6              | 12 GB   | 200 GB SSD or 100 GB NVMe              | 2              | 32 TB (Unlimited Incoming) | No Setup Fee  |
+| Cloud VPS 8C       | $16.66       | 8              | 20 GB   | 200 GB NVMe or 400 GB SSD              | 3              | 32 TB (Unlimited Incoming) | No Setup Fee  |
+| Cloud VPS 10C      | $30.94       | 10             | 32 GB   | 250 GB NVMe or 500 GB SSD              | 3              | 32 TB (Unlimited Incoming) | No Setup Fee  |
+| Cloud VPS 14C      | $39.98       | 14             | 48 GB   | 300 GB NVMe or 600 GB SSD              | 3              | 32 TB (Unlimited Incoming) | No Setup Fee  |
+| Cloud VPS 20C      | $73.30       | 20             | 96 GB   | 400 GB NVMe or 800 GB SSD              | 3              | 32 TB (Unlimited Incoming) | No Setup Fee  |
+
+## 💰 Contabo Cloud VPS Plans (Side-by-Side Comparison)
+
+| Feature             | Cloud VPS 4C     | Cloud VPS 6C     | Cloud VPS 8C     | Cloud VPS 10C    | Cloud VPS 14C    | Cloud VPS 20C    |
+|---------------------|------------------|------------------|------------------|------------------|------------------|------------------|
+| **Price/month**     | $5.30            | $7.57            | $16.66           | $30.94           | $39.98           | $73.30           |
+| **vCPU Cores**      | 4                | 6                | 8                | 10               | 14               | 20               |
+| **RAM**             | 4 GB             | 12 GB            | 20 GB            | 32 GB            | 48 GB            | 96 GB            |
+| **NVMe Storage**    | 100 GB           | 100 GB           | 200 GB           | 250 GB           | 300 GB           | 400 GB           |
+| **SSD Storage**     | 200 GB           | 200 GB           | 400 GB           | 500 GB           | 600 GB           | 800 GB           |
+| **Snapshots**       | 1                | 2                | 3                | 3                | 3                | 3                |
+| **Setup Fee**       | No               | No               | No               | No               | No               | No               |
+
+> **1** You can choose between SSD or NVMe Storage.
+> **2** In all the plans, you get **32 TB Bandwidth with Unlimited incoming traffic**.
 > 💡 You can also opt for SSD versions and get even more storage at the same price.
 
 ---
@@ -43,15 +62,15 @@ In this Contabo review, I’ll share my hands-on experience with Contabo, its fe
 
 Contabo has expanded significantly over the years, offering data centers in:
 
-- India
-- USA (East & West Coast)
-- Germany
-- UK
-- Singapore
-- Japan
-- Australia
+- 🇮🇳 **India**
+- 🇺🇸 **USA** (East & West Coast)
+- 🇩🇪 **Germany**
+- 🇬🇧 **United Kingdom**
+- 🇸🇬 **Singapore**
+- 🇯🇵 **Japan**
+- 🇦🇺 **Australia**
 
-This global reach ensures **better performance and low latency** for your users.
+This global reach ensures **better performance** and **low latency** for your users, no matter where they are.
 
 ---
 
