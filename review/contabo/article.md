@@ -5,8 +5,8 @@ If you're planning to migrate your website to a VPS, **Contabo** is one of the m
 In this Contabo review, I’ll share my hands-on experience with Contabo, its features, pricing, and how it stacks up against UpCloud — so you can make an informed decision before moving your WordPress or web project to a new server.
 
 ➡️ **Tutorial Included:** Learn how to migrate your WordPress site using SSH + WGET:  
-👉 [Complete Migration Guide using Contabo](https://github.com/vashishthakapoor/website-migrate)
-🟢 [Get Contabo VPS →](hhttps://vashishthakapoor.com/website-migrate-contabo) 
+- 👉 [Complete Migration Guide using Contabo](https://github.com/vashishthakapoor/website-migrate)
+- 👉 [Get Contabo VPS →](https://vashishthakapoor.com/website-migrate-contabo) 
 
 ---
 
@@ -25,7 +25,9 @@ In this Contabo review, I’ll share my hands-on experience with Contabo, its fe
 
 ---
 
-## 💰 Contabo VPS Pricing (as of 2024)
+## 💰 Contabo VPS Pricing
+
+:::image type="content" alt-text="Contabo pricing" source="media\contabo-pricing-plans.png" :::
 
 | **Plan**        | **vCPU** | **RAM** | **Storage** | **Monthly Price** |
 |-----------------|----------|---------|-------------|-------------------|
@@ -126,10 +128,13 @@ And much more via SSH or automation tools like WordOps.
 If you're planning to move your WordPress site to a Contabo VPS, don't miss this step-by-step tutorial:
 
 👉 **[How to Migrate WordPress to Contabo VPS using SSH + WGET](https://github.com/vashishthakapoor/website-migrate)**  
+
 This guide shows you how to:
 - Skip local file downloads
 - Transfer files directly via SSH
 - Restore your website in minutes
+
+[![Website Migration Tutorial Video - Detailed](https://img.youtube.com/vi/D5vCuWfnWDI/0.jpg)](https://www.youtube.com/watch?v=D5vCuWfnWDI)
 
 ---
 
