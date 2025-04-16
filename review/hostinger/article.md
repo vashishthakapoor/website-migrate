@@ -2,6 +2,8 @@
 
 **Hostinger** has rapidly become one of the most trusted and widely used web hosting providers across the globe. Known for its combination of affordable pricing, beginner-friendly setup, and solid performance, it's a strong option for anyone building a website for the first time. This review will give you a full breakdown of Hostinger’s shared hosting services, pricing, pros and cons, and how it compares with other top hosting providers.
 
+[![My Hostinger Review pricing](media/my-review.png)](https://www.hostinger.com/)
+
 ---
 
 ## 👨‍💻 About the Reviewer
