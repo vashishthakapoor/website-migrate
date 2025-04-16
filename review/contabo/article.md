@@ -27,7 +27,7 @@ In this Contabo review, I’ll share my hands-on experience with Contabo, its fe
 
 ## 💰 Contabo VPS Pricing
 
-:::image type="content" alt-text="Contabo pricing" source="media\contabo-pricing-plans.png" :::
+[![Contabo pricing](media/contabo-pricing-plans.png)](https://vashishthakapoor.com/website-migrate-contabo)
 
 | **Plan**        | **vCPU** | **RAM** | **Storage** | **Monthly Price** |
 |-----------------|----------|---------|-------------|-------------------|
