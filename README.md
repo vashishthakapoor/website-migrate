@@ -1,11 +1,13 @@
-# How to Migrate WordPress Site
+# How to Migrate HUGE WordPress Sites to a VPS Server over SSH with wget - Tutorial Video & Documentation
+
 Migrating a large WordPress website can be challenging, especially when dealing with slow downloads or timeouts. 
 
 In this video, I’ve explained how to efficiently migrate huge WordPress sites using SSH and WGET, a powerful combination that speeds up the process and ensures reliability.
 
-## ❤️ Youtube Video
+## ❤️ Youtube Video - The Tutorial
 
 [![Website Migration Tutorial Video - Detailed](https://img.youtube.com/vi/D5vCuWfnWDI/0.jpg)](https://www.youtube.com/watch?v=D5vCuWfnWDI)
+[Jump to the section with commands](https://github.com/vashishthakapoor/website-migrate?tab=readme-ov-file#how-to-migrate-wordpress-sites-easity-even-huge-sites)
 
 ## 💼 Affiliate Links (Thank you for your support!):
 
