@@ -1,4 +1,9 @@
-# 🚀 Contabo VPS Review – Is It Worth It? (With UpCloud Comparison)
+---
+title: Contabo VPS Review
+description: Read the detailed Contabo review including comparison the other VPS server providers. My honest opinion, pros and cons, testimonials, pricing comparison, speed tests, and everything you need to know about Contabo.
+---
+
+# 🚀 Contabo VPS Review - Contabo vs UpCloud
 
 If you're planning to migrate your website to a VPS, **Contabo** is one of the most budget-friendly options you’ll come across. But does it live up to the hype? And how does it compare to premium providers like **UpCloud**?
 
