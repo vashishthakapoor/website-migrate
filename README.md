@@ -99,7 +99,7 @@ That’s it—no middleman, no local machine, and no wasted time. Follow the ful
 - install blank WordPress with SSL and setup DNS of the domain
   ```bash
   ## Install WordPress with SSL, PHP 8.1 with the same domain on the new server
-  wo site create domain.com --wp --php81 -le --force
+  wo site create domain.com --wp --php84 -le --force
   ```
 - remove wp-content folder
   ```bash
