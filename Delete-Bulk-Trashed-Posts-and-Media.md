@@ -68,6 +68,19 @@ TRASHED_POSTS=$(sudo -u www-data wp post list \
 
 ---
 
+## Optional - Trash posts in a Category
+
+Change *altternative* with the category slug
+
+```bash
+sudo -u www-data wp post update \
+  $(sudo -u www-data wp post list \
+    --post_type=post \
+    --category_name=altternative \
+    --post_status=publish \
+    --format=ids) \
+  --post_status=trash
+```
 ## 3️⃣ DRY RUN — List Attachments for Trashed Posts
 
 ```bash
